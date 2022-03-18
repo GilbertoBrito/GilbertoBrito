@@ -1,4 +1,4 @@
-### Olá! Eu sou Gilberto Brito 👋
+### Olá! Eu sou Gilberto Brito, sou iniciante na programação. 👋
 
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmgilbertoisabel@gmail.com)
@@ -11,13 +11,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBrito&langs_count=8)](https://github.com/GilbertoBrito/github-readme-stats)
 
 
-Sou iniciante na programação. I am familiar with the following IDEs: 
+Sou iniciante na programação I am familiar with the following IDEs: 
 [Sublime Text](https://www.sublimetext.com/), 
 [`VSCode`](https://code.visualstudio.com/), and 
 . Use in my projects: 
 [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), 
 [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and
-[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) as a VCS(Version Control System). I currently travel the knowledge trails:
+[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) as a VCS(Version Control System). 
+
+## Tecnologias que estou usando diariamente para aprendizagem:
+
+<div style="display: inline_block"><br/><img align="centec" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+<\div>
+
 
 
 - [Lógica de Programação](#)✔️
