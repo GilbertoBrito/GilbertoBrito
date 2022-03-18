@@ -18,7 +18,7 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Java](https://www.java.com/pt-BR/) ✔️
 - [Front-end web development](#) ✔️
-- [Home-Assistant](https://www.home-assistant.io/) ✔️
+- [Assistente de Casa](https://www.home-assistant.io/) ✔️
 - [Internet das Coisas](#) ✔️
 
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
