@@ -14,7 +14,7 @@
 Sou iniciante na programação. I am familiar with the following IDEs: 
 [Sublime Text](https://www.sublimetext.com/), 
 [`VSCode`](https://code.visualstudio.com/), and 
-[Notepad ++](https://notepad-plus-plus.org/). Use in my projects: 
+. Use in my projects: 
 [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), 
 [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and
 [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) as a VCS(Version Control System). I currently travel the knowledge trails:
