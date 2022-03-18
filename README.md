@@ -1,8 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou Gilberto Brito 👋
+
+
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmgilbertoisabel@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GilbertoBrito)](https://github.com/GilbertoBrito)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-lemos-a550441a1/)](https://www.linkedin.com/in/lucio-lemos-a550441a1/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/GilbertoBrito)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
+
+
+![Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertoBrito&show_icons=true&theme=onedark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBrito&langs_count=8)](https://github.com/GilbertoBrito/github-readme-stats)
+
 
 My name is Gilberto Brito. Sou iniciante na programação. I am familiar with the following IDEs: 
 [Sublime Text](https://www.sublimetext.com/), 
