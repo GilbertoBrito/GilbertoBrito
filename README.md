@@ -24,4 +24,4 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 [![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
 [![](https://img.shields.io/badge/Linux_Mint-20.04-yellow)](#)
 [![](https://img.shields.io/badge/Windows-11_Home_Single_Language-blue)](#)
-[![](https://img.shields.io/badge/WSL-2-green)](https://docs.microsoft.com/pt-br/windows/wsl/) 
+
