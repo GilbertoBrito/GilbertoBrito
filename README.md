@@ -13,24 +13,15 @@
 
 ## Estou estudando as seguintes tecnologias:
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br/>
 <img align="centec" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<div style="display: inline_block">
-<img align="centec" alt="html5" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-
-<\div>
-
-
+<img align="centec" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="centec" alt="js" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="centec" alt="j" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
 
 - [Lógica de Programação](#)✔️
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
-- [Java](https://www.java.com/pt-BR/) ✔️
-- [Front-end web development](#) ✔️
 - [Assistente de Casa](https://www.home-assistant.io/) ✔️
 - [Internet das Coisas](#) ✔️
 
-[![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
-[![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
-[![](https://img.shields.io/badge/Linux_Mint-20.04-yellow)](#)
-[![](https://img.shields.io/badge/Windows-11_Home_Single_Language-blue)](#)
 
