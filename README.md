@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBrito&langs_count=8)](https://github.com/GilbertoBrito/github-readme-stats)
 
 
-My name is Gilberto Brito. Sou iniciante na programação. I am familiar with the following IDEs: 
+Sou iniciante na programação. I am familiar with the following IDEs: 
 [Sublime Text](https://www.sublimetext.com/), 
 [`VSCode`](https://code.visualstudio.com/), and 
 [Notepad ++](https://notepad-plus-plus.org/). Use in my projects: 
