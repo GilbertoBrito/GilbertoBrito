@@ -15,11 +15,10 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 
 
 - [Website](https://www.gilbertobrito.com)✔️
-- [MySQL](https://www.mysql.com/) ✔️
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Vagrant](https://www.vagrantup.com/) ✔️
-- [Network and System Security](#) ✔️
-- [Data Governance](#) ✔️
+- [Front-End](#) ✔️
+- [Homeassistant](#) ✔️
 
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
 [![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
