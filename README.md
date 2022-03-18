@@ -9,7 +9,7 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 [`VSCode`](https://code.visualstudio.com/), and 
 [Notepad ++](https://notepad-plus-plus.org/). Use in my projects: 
 [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), 
-[CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and 
+[CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS),
 [Git](https://git-scm.com/) and 
 [Github](https://github.com/) as a VCS(Version Control System). I currently travel the knowledge trails of 
 
