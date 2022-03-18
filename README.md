@@ -11,14 +11,15 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), 
 [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS),
 [Git](https://git-scm.com/) and 
-[Github](https://github.com/) as a VCS(Version Control System). I currently travel the knowledge trails of 
+[Github](https://github.com/) as a VCS(Version Control System). I currently travel the knowledge trails:
 
 
 - [Lógica de Programação](#)✔️
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Java](https://www.java.com/pt-BR/) ✔️
 - [Front-end web development](#) ✔️
-- [Assistante de Casa](https://www.home-assistant.io/) ✔️
+- [Home-Assistant](https://www.home-assistant.io/) ✔️
+- [Internet das Coisas](#) ✔️
 
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
 [![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
