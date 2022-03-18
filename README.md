@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/GilbertoBrito)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 
-My name is Gilberto Brito. Sou iniciante na programação. platforms interchangeably. I am familiar with the following IDEs: 
+My name is Gilberto Brito. Sou iniciante na programação. I am familiar with the following IDEs: 
 [Sublime Text](https://www.sublimetext.com/), 
 [`VSCode`](https://code.visualstudio.com/), and 
 [Notepad ++](https://notepad-plus-plus.org/), among others with ease. Use in my projects: 
