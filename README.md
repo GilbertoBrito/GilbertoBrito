@@ -14,10 +14,10 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 [Github](https://github.com/) as a VCS(Version Control System). I currently travel the knowledge trails of 
 
 
-- [Lógica de Programação](https://www.gilbertobrito.com)✔️
+- [Lógica de Programação](#)✔️
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Java](https://www.java.com/pt-BR/) ✔️
-- [Front-End](#) ✔️
+- [Front-end web development](#) ✔️
 - [Assistante de Casa](https://www.home-assistant.io/) ✔️
 
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
