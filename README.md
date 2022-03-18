@@ -14,7 +14,7 @@ My name is Gilberto Brito. Sou iniciante na programação. I am familiar with th
 [Github](https://github.com/) as a VCS(Version Control System). I currently travel the knowledge trails of 
 
 
-- [Website](https://www.gilbertobrito.com)✔️
+- [Lógica de Programação](https://www.gilbertobrito.com)✔️
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Vagrant](https://www.vagrantup.com/) ✔️
 - [Front-End](#) ✔️
