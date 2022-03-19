@@ -1,13 +1,10 @@
 ### Olá! Eu sou Gilberto Brito, sou iniciante na programação. 👋
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GilbertoBrito)](https://github.com/GilbertoBrito)
-
-
-![Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertoBrito&show_icons=true&theme=onedark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBrito&langs_count=8)](https://github.com/GilbertoBrito/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/GilbertoBrito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoBrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoBrito&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## Estou estudando as seguintes tecnologias:
@@ -22,5 +19,3 @@
 - [Lógica de Programação](#)✔️
 - [Assistente de Casa](https://www.home-assistant.io/) ✔️
 - [Internet das Coisas](#) ✔️
-
-
